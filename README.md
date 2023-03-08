@@ -95,3 +95,7 @@ Added a new tag.
 
 0.9.1
 A new minor changes!
+
+1.0.0
+
+New major change
