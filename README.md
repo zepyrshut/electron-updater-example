@@ -90,4 +90,8 @@ If you can't use GitHub, you can use other providers:
 
 // Development zone
 
+0.8.1
 Added a new tag.
+
+0.9.1
+A new minor changes!
